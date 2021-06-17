@@ -1,0 +1,2 @@
+(this.webpackJsonpreact=this.webpackJsonpreact||[]).push([[0],{10:function(e,t,s){"use strict";s.r(t);s(1);var n=s(3),c=s.n(n),i=(s(8),s(0));function r(){return Object(i.jsxs)("div",{className:"container",children:[Object(i.jsx)("h1",{children:"My first Github Pages!"}),Object(i.jsx)("p",{children:"This is a test, we use this to learn how to use Github Pages."})]})}c.a.render(Object(i.jsx)(r,{}),document.getElementById("root"))},8:function(e,t,s){}},[[10,1,2]]]);
+//# sourceMappingURL=main.d10575e7.chunk.js.map
